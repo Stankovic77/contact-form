@@ -39,4 +39,4 @@ Users should be able to:
 
 - Frontend Mentor - [@Stankovic77](https://www.frontendmentor.io/profile/Stankovic77)
 - GitHub - [@Stankovic77](https://github.com/Stankovic77)
-- Vercel - [@Stankovic77]()
+- Vercel - [@Stankovic77](https://vercel.com/markos-projects-c1d4583d/)
